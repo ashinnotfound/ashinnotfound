@@ -4,7 +4,7 @@
 - 👀 I’m interested in back-end and blockchain.
 - 🌱 I’m currently learning Java and Solidity.
 - 😁 And my hope is to make some noise.
-- 📫 Reach me through my email: ashinnotfound@qq.com
+- 📫 Reach me via my email: ashinnotfound@qq.com
 
 <!---
 ashinnotfound/ashinnotfound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
