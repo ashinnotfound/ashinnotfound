@@ -1,6 +1,6 @@
 # Hi,there!👨‍🔧
 
-- 👋 I’m @ashinnotfound, who is just a colleage student.
+- 👋 I’m @ashinnotfound, who is just a college student.
 - 👀 I’m interested in back-end and blockchain.
 - 🌱 I’m currently learning Java and Solidity.
 - 😁 And my hope is to make some noise.
