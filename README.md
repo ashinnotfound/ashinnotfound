@@ -20,3 +20,4 @@
 
     ​	Visitor Counts：![Visitor Count](https://profile-counter.glitch.me/ashinnotfound/count.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumy7&layout=compact&exclude_repo=sumy7.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/ashinnotfound/github-readme-stats)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ashinnotfound/ashinnotfound/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ashinnotfound/ashinnotfound/output/github-contribution-grid-snake.svg#gh-light-mode-only)
