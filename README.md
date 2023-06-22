@@ -14,7 +14,7 @@
 
 - 📫 Contact me
     
-    website：www.ashinnotfound.top （ipv6 required）
+    website：www.ashinnotfound.top
     
     email：ashinnotfound@qq.com (Timely reply...emmmm maybe?🤪)
 
