@@ -14,7 +14,7 @@
 
 - 📫 Contact me
     
-    website：www.ashinnotfound.top
+    website：ashinnotfound.top
     
     email：ashinnotfound@qq.com (Timely reply...emmmm maybe?🤪)
 
