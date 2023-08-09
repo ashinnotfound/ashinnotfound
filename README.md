@@ -18,7 +18,7 @@
     
     email：ashinnotfound@qq.com (Timely reply...emmmm maybe?🤪)
 
-    ​Visitor Counts：![Visitor Count](https://profile-counter.glitch.me/ashinnotfound/count.svg)
+​Visitor Counts：![Visitor Count](https://profile-counter.glitch.me/ashinnotfound/count.svg)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
