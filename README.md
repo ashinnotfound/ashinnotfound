@@ -70,5 +70,3 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/ashinnotfound/ashinnotfound/output/github-contribution-grid-snake.svg)
