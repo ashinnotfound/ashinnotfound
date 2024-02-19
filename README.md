@@ -46,10 +46,10 @@ Sunday                   226 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
