@@ -27,6 +27,41 @@
 ​Visitor Counts：![Visitor Count](https://profile-counter.glitch.me/ashinnotfound/count.svg)
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+🌆 Daytime                645 commits         ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌃 Evening                687 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
+🌙 Night                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+Tuesday                  372 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Wednesday                318 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Thursday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Friday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+Saturday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Sunday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    1 hr 53 mins        ███████████░░░░░░░░░░░░░░   44.27 % 
+Swift                    1 hr 51 mins        ███████████░░░░░░░░░░░░░░   43.63 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+
+🔥 Editors: 
+VS Code                  4 hrs 16 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
