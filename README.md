@@ -52,11 +52,10 @@ Sunday                   226 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 mins              █████████████░░░░░░░░░░░░   53.79 % 
-GDScript3                3 mins              ████████████░░░░░░░░░░░░░   46.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
