@@ -27,37 +27,6 @@
 ​Visitor Counts：![Visitor Count](https://profile-counter.glitch.me/ashinnotfound/count.svg)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                143 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-🌆 Daytime                645 commits         ██████████░░░░░░░░░░░░░░░   40.29 % 
-🌃 Evening                687 commits         ███████████░░░░░░░░░░░░░░   42.91 % 
-🌙 Night                  126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Tuesday                  372 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-Wednesday                318 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Thursday                 154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Friday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Saturday                 163 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Sunday                   226 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
